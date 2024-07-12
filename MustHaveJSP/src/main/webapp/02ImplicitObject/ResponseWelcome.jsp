@@ -4,9 +4,10 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>내장 객체 -response</title>
+		<title>내장 객체 - response</title>
 	</head>
 	<body>
+		<img src="../images/Error.jpg" alt="공사중입니다." />
 		<h2>로그인 성공</h2>
 	</body>
 </html>
